@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "185152595194",
+    "firebase_url": "https://nurserymanagement-7d1da.firebaseio.com",
+    "project_id": "nurserymanagement-7d1da",
+    "storage_bucket": "nurserymanagement-7d1da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185152595194:android:62a64e6233d84512",
+        "android_client_info": {
+          "package_name": "com.example.kinza.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185152595194-sh25nakijrkl3p647kv8ig2siqh7c97v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJZ6hmtR3TfJaJDdBj1Ynr4vKpi2Y-mUI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
